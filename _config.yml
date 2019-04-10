@@ -10,7 +10,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Software Carpentry workshop at eResearch Africa 2019"
 
 
 #------------------------------------------------------------
@@ -26,7 +26,7 @@ kind: "workshop"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-# (Don't change this -- the contact address for your workshop will be set 
+# (Don't change this -- the contact address for your workshop will be set
 # in the index.md file)
 email: "team@carpentries.org"
 
@@ -44,8 +44,8 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "https://github.com/carpentries/workshop-template"
-workshop_site: "https://carpentries.github.io/workshop-template"
+workshop_repo: "https://github.com/confluence/2019-04-15-UCT"
+workshop_site: "http://confluence.github.io/2019-04-15-UCT"
 
 # Surveys.
 swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
