@@ -91,6 +91,8 @@ workshop is only open to people from a particular institution.
 {% include lc/who.html %}
 {% endif %}
 
+<em>This workshop is being run as part of the eResearch Africa 2019 conference. If you would like to participate, please <a href="http://www.eresearch-africa.uct.ac.za/">visit the conference website</a> for registration information.</em>
+
 {% comment %}
 LOCATION
 
